@@ -8,3 +8,10 @@ just a very basic webpage that ive built to learn HTML and CSS - more to be adde
 
 ************************************************************************
 
+to do
+
+style contact me form 
+add more contect to home page 
+add heading/ logo 
+view PHP corse to forms 
+
